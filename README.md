@@ -41,6 +41,6 @@ A partir de Wine 5.7, los paquetes WineHQ Debian tienen una configuración debco
    
    # Descarga los juegos o programas aca  o en otra pagina que conozcas.
    
-   <a head="https://ubuntonic.blogspot.com"</a>
+   <button> type=text;"hola" head="https://ubuntonic.blogspot.com"</button>
 
 
