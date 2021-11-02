@@ -40,7 +40,7 @@ A partir de Wine 5.7, los paquetes WineHQ Debian tienen una configuración debco
    #    wine --version                Output version information and exit
    
    # Descarga los juegos o programas aca  o en otra pagina que conozcas.
-   <button>
+   
    <a head="https://ubuntonic.blogspot.com"</a>
-</button>
+
 
