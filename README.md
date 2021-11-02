@@ -11,22 +11,31 @@ sudo apt-key add winehq.key
 
 # Agregue el repositorio a /etc/apt/sources.list con el siguiente contenido:
 $ sudo nano /etc/apt/sources.list
+
 deb https://dl.winehq.org/wine-builds/debian/ buster main
+
 deb https://dl.winehq.org/wine-builds/debian/ bullseye main
+
 deb https://dl.winehq.org/wine-builds/debian/ bookworm main
+
 guardalo con ctrl+X LUEGO TECLEA LA S  Y ENTER PARA SALIR
 
-# Paquetes de actualización:
+# Actualiza los paquetes:
 
 $ sudo apt update
 
 # Luego instale uno de los siguientes paquetes:
 
 # Stable branch 
+
 sudo apt install --install-recommends winehq-stable
+
 # Development branch
+
 sudo apt install --install-recommends winehq-devel
+
 # Staging branch 
+
 sudo apt install --install-recommends winehq-staging
 
 # Some notes on the WineHQ packages:
