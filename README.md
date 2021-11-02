@@ -6,6 +6,7 @@ $ sudo dpkg --add-architecture i386
 
 # Descargue e instale la clave del repositorio:
 wget -nc https://dl.winehq.org/wine-builds/winehq.key
+
 sudo apt-key add winehq.key
 
 # Agregue el repositorio a /etc/apt/sources.list con el siguiente contenido:
@@ -41,6 +42,6 @@ A partir de Wine 5.7, los paquetes WineHQ Debian tienen una configuración debco
    
    # Descarga los juegos o programas aca  o en otra pagina que conozcas.
    
-   https://ubuntonic.blogspot.com
+   <a href="https://ubuntonic.blogspot.com"<aqui</a>
 
 
