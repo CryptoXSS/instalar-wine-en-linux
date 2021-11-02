@@ -38,16 +38,16 @@ sudo apt install --install-recommends winehq-devel
 
 sudo apt install --install-recommends winehq-staging
 
-# Some notes on the WineHQ packages:
+# Algunas notas sobre los paquetes de WineHQ:
 
 Los archivos se instalan en / opt / wine-devel o / opt / wine-staging.
 Los elementos del menú no se crean para los programas integrados de Wine (winecfg, etc.), y si está actualizando desde un paquete de distribución que los había agregado, se eliminarán. Puede recrearlos usted mismo usando su editor de menú.
 WineHQ no empaqueta en la actualidad wine-gecko o wine-mono. Al crear un nuevo prefijo de vino, se le preguntará si desea descargar esos componentes. Para una mejor compatibilidad, se recomienda hacer clic en Sí aquí. Si la descarga no le funciona, siga las instrucciones de las páginas wiki de Gecko y Mono para instalarlas manualmente.
 A partir de Wine 5.7, los paquetes WineHQ Debian tienen una configuración debconf opcional para habilitar CAP_NET_RAW para permitir que las aplicaciones que necesitan enviar y recibir paquetes IP sin procesar lo hagan. Esto está deshabilitado de forma predeterminada porque conlleva un riesgo de seguridad potencial y la gran mayoría de las aplicaciones no necesitan esa capacidad. Los usuarios de aplicaciones que lo necesitan pueden habilitar CAP_NET_RAW después de instalar Wine ejecutando.
 
-# Usage: wine PROGRAMA [ARGUMENTS...]   Run the specified program
-  #     wine --help                   Display this help and exit
-   #    wine --version                Output version information and exit
+# Uso: wine PROGRAMA [ARGUMENTOS...]   Ejecuta el programa especificado
+  #     wine --ayuda                   Muestre esta ayuda y salga
+   #    wine --version                Salida de información de versión y salida
    
    # Descarga los juegos o programas a <a href="https://ubuntonic.blogspot.com">aqui</a> o en otra pagina que conozcas.
    
