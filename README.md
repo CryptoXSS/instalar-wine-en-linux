@@ -49,9 +49,9 @@ A partir de Wine 5.7, los paquetes WineHQ Debian tienen una configuración debco
   #     wine --ayuda                   Muestre esta ayuda y salga
    #    wine --version                Salida de información de versión y salida
    
-   # Descarga los juegos o programas a <a href="https://ubuntonic.blogspot.com">aqui</a> o en otra pagina que conozcas.
+   # Descarga los juegos o programas desde a <a href="https://ubuntonic.blogspot.com">Aqui</a> o en otra pagina que conozcas.
    
-   <h1 luego de descargar el ejecutable.exe lo instalamos desde la terminal, con el comando "wine" e.g: wine ejecutable.exe y listo ya tenemos nuestro juego en linux :D</h1>
+   # luego de descargar el ejecutable.exe lo instalamos desde la terminal, con el siguiente comando  "wine ejecutable.exe" y listo ya tenemos nuestro juego en linux :D
    
    
 
