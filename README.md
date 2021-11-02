@@ -18,7 +18,7 @@ deb https://dl.winehq.org/wine-builds/debian/ bullseye main
 
 deb https://dl.winehq.org/wine-builds/debian/ bookworm main
 
-guardalo con ctrl+X LUEGO TECLEA LA S  Y ENTER PARA SALIR
+Guardalo con "Ctrl+X" LUEGO TECLEA LA "S"  Y "ENTER" PARA SALIR.
 
 # Actualiza los paquetes:
 
