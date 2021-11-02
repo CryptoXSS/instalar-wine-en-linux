@@ -32,7 +32,7 @@ sudo apt install --install-recommends winehq-stable
 
 # Development branch
 
-sudo apt install --install-recommends winehq-devel
+sudo apt install --install-recommends winehq-devel  
 
 # Staging branch 
 
